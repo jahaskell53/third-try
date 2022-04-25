@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vr-viz-boilerplate/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/vr-viz-boilerplate/static/js/main.fa12fb39.chunk.js",
-    "main.js.map": "/vr-viz-boilerplate/static/js/main.fa12fb39.chunk.js.map",
-    "runtime-main.js": "/vr-viz-boilerplate/static/js/runtime-main.554a38e2.js",
-    "runtime-main.js.map": "/vr-viz-boilerplate/static/js/runtime-main.554a38e2.js.map",
-    "static/js/2.6eaeffd1.chunk.js": "/vr-viz-boilerplate/static/js/2.6eaeffd1.chunk.js",
-    "static/js/2.6eaeffd1.chunk.js.map": "/vr-viz-boilerplate/static/js/2.6eaeffd1.chunk.js.map",
-    "static/js/3.4b0a8494.chunk.js": "/vr-viz-boilerplate/static/js/3.4b0a8494.chunk.js",
-    "static/js/3.4b0a8494.chunk.js.map": "/vr-viz-boilerplate/static/js/3.4b0a8494.chunk.js.map",
-    "index.html": "/vr-viz-boilerplate/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/vr-viz-boilerplate/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6eaeffd1.chunk.js.LICENSE.txt": "/vr-viz-boilerplate/static/js/2.6eaeffd1.chunk.js.LICENSE.txt"
+    "main.css": "/react-gh-pages/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.fa12fb39.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.fa12fb39.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.2e1f1e30.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.2e1f1e30.js.map",
+    "static/js/2.6eaeffd1.chunk.js": "/react-gh-pages/static/js/2.6eaeffd1.chunk.js",
+    "static/js/2.6eaeffd1.chunk.js.map": "/react-gh-pages/static/js/2.6eaeffd1.chunk.js.map",
+    "static/js/3.4b0a8494.chunk.js": "/react-gh-pages/static/js/3.4b0a8494.chunk.js",
+    "static/js/3.4b0a8494.chunk.js.map": "/react-gh-pages/static/js/3.4b0a8494.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-gh-pages/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6eaeffd1.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.6eaeffd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.554a38e2.js",
+    "static/js/runtime-main.2e1f1e30.js",
     "static/js/2.6eaeffd1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.fa12fb39.chunk.js"
